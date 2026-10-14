@@ -3,7 +3,7 @@
 ## Student Information
 - **Name:** Naif Mohaya Alotaibi
 - **Student ID:** 445050096
-- **Repository:** https://github.com/445050096-dev/OS-Assignment1-Naif-Alotaibi
+- **Repository:** https://share.google/EB0inS6CrN39Mm3eQ
 
 ---
 
